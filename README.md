@@ -2,4 +2,4 @@
 
 To run the script
 
--bash python Contextual_Bandits_Experiments.py
+bash python Contextual_Bandits_Experiments.py
