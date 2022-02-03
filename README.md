@@ -2,6 +2,6 @@
 
 To run the script
 
-'''
+'''python
 python Contextual_Bandits_Experiments.py
 '''
