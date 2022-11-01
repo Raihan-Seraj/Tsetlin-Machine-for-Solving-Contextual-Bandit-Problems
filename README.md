@@ -2,7 +2,7 @@
 
 
 This repository contains the code for the experiment presented in the paper 
-> Raihan Seraj, Jivitesh Sharma, Ole-Christoffer Granmo, " [Tsetlin Machine for Solving Contextual Bandit Problems] ", 2020
+> Raihan Seraj, Jivitesh Sharma, Ole-Christoffer Granmo, " [Tsetlin Machine for Solving Contextual Bandit Problems] ", 2022
 
 ### Installation 
 To install the dependencies of the code in a virtual environment run the setup script.
